@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: 
+Disallow: /cv/
+Disallow: /images/
+Disallow: /css/
+Disallow: /js/
+Sitemap: https://kesidis.me/sitemap.xml
